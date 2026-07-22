@@ -23,12 +23,6 @@ I am a Data Analyst passionate about transforming raw data into meaningful busin
 - SQL Business Analysis
 - Power BI Interactive Dashboards
 
-## 🌱 Currently Learning
-
-- Advanced Python
-- Machine Learning
-- Business Intelligence
-
 ## 🎯 Career Goal
 
 To leverage data analytics to solve business problems and contribute to organizational growth through actionable insights.
