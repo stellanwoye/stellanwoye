@@ -1,5 +1,5 @@
 ![Banner](stella-banner.png)
-# Hi there 👋, I'm Nwoye, Stella Ifeyinwa (Née Obuka)
+# Hi there 👋, I'm Nwoye, Stella Ifeyinwa 
 
 ## 💼 About Me
 
