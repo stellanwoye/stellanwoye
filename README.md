@@ -28,6 +28,7 @@ I am a Data Analyst passionate about transforming raw data into meaningful busin
 To leverage data analytics to solve business problems and contribute to organizational growth through actionable insights.
 
 ## 📫 Connect With Me
+Phone no: +2349065566670
 
 - LinkedIn: (https://www.linkedin.com/in/stella-nwoye-b5725323a)
 ⭐ Thanks for visiting my GitHub profile!
