@@ -99,10 +99,10 @@ Skills Used
 To leverage data analytics to solve business problems and contribute to organizational growth through actionable insights.
 
 ## 📫 Connect With Me
-Phone no: +2349065566630
 📧 Email:: stellaify608@gmail.com
 💼 LinkedIn: (https://www.linkedin.com/in/stella-nwoye-b5725323a)
 💻 GitHub: https://github.com/stellanwoye
+
 ## 📊 GitHub Stats
 
 ![Stella's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stellanwoye&show_icons=true&theme=default)
